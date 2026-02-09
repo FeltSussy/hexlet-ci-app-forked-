@@ -1,3 +1,4 @@
+[![initiate](https://github.com/FeltSussy/hexlet-ci-app-forked-/actions/workflows/init.yml/badge.svg)](https://github.com/FeltSussy/hexlet-ci-app-forked-/actions/workflows/init.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
